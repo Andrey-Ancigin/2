@@ -1,5 +1,1 @@
-tmp.zip
-_old
-_backup
-Thumbs.db
-.DS_Store
+# игнорировать все файлы в каталоге tmp/
