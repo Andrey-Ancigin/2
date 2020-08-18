@@ -1,9 +1,9 @@
-.DS_Store
-
 Thumbs.db
 
-tmp/
-
-*html_old
+*_old
 
 *_backup
+
+*.DS_Store
+
+/tmp/
